@@ -24,5 +24,4 @@ An interactive data analytics dashboard built using **Power BI** to analyze Uber
 - Microsoft Excel (Data Source)
 
 ## Files
-- `Uber.pbix` — Power BI dashboard file
 - `uber.xlsx` — Raw data source
